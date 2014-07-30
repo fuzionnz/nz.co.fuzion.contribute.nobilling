@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="nz.co.fuzion.contribute.nobilling" type="module">
+  <file>nobilling</file>
+  <name>Contribute No Billing</name>
+  <description>Do not require billing addresses for CiviCRM contributions.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Chris Burgess</author>
+    <email>chris@fuzion.co.nz</email>
+  </maintainer>
+  <releaseDate>2014-07-31</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.3</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Nobilling</namespace>
+  </civix>
+</extension>
